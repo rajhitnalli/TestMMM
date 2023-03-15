@@ -6,5 +6,6 @@ public class Samle {
 	{
 		System.out.println("mfcc");
 		//pull from git to eclips
+		//push from eclips to github
 	}
 }
